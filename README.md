@@ -16,7 +16,13 @@ __Supports:__
 
 __Planning to support:__
 
-- The Elder Scrolls II: Daggerfall
-- S.T.A.L.K.E.R. franchise and Anomaly
-- Kenshi
-- Rimworld
+*NOTE: LINKS WILL BE DEAD, THESE ARE PLACE HOLDERS*
+
+- [The Elder Scrolls II: Daggerfall](./he-tes2)
+- [S.T.A.L.K.E.R.: Shadow of Chernobyl](./he-shoc)
+- [S.T.A.L.K.E.R.: Clear Sky](./he-cs)
+- [S.T.A.L.K.E.R.: Call of Pripyat](./he-cop)
+- [S.T.A.L.K.E.R.: Call of Chernobyl](./he-coc)
+- [S.T.A.L.K.E.R.: Anomaly](./he-anomaly)
+- [Kenshi](./he-ks)
+- [Rimworld](./he-rw)
