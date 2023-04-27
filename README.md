@@ -13,3 +13,10 @@ __Supports:__
 - [The Elder Scrolls IV: Oblivion](./he-tes4)
 - [The Elder Scrolls V: Skyrim (LE)](./he-tes5le)
 - [The Elder Scrolls V: Skyrim (SE)](./he-tes5se)
+
+__Planning to support:__
+
+- The Elder Scrolls II: Daggerfall
+- S.T.A.L.K.E.R. franchise and Anomaly
+- Kenshi
+- Rimworld
