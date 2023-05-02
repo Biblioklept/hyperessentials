@@ -11,6 +11,15 @@ Additional work you may want to do:
 <summary>Changelog:</summary>
 <br>
 
+__Update 1.0.2:__
+
+ADDED:
+- NVTF - New Vegas Tick Fix - INI
+
+UPDATED:
+- JIP LN NVSE Plugin
+- NVTF - New Vegas Tick Fix
+
 __Update 1.0.1:__
 
 ADDED:
@@ -21,7 +30,6 @@ UPDATED:
 
 REMOVED:
 - Vanilla Iron Sights Realligned
-
 
 __Update 1.0.0:__
 - Inital release.
