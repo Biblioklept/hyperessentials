@@ -10,6 +10,7 @@ __Supports:__
 - [Fallout: New Vegas](./he-fnv)
 - [Fallout 4](./he-fo4)
 - [The Elder Scrolls IV: Oblivion](./he-tes4)
+- [Kenshi](./he-ks)
 
 __Working on:__
 
@@ -25,5 +26,4 @@ __Planning to support:__
 - [S.T.A.L.K.E.R.: Call of Pripyat](./he-cop)
 - [S.T.A.L.K.E.R.: Call of Chernobyl](./he-coc)
 - [S.T.A.L.K.E.R.: Anomaly](./he-anomaly)
-- [Kenshi](./he-ks)
 - [Rimworld](./he-rw)
