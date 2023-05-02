@@ -2,7 +2,7 @@
 
 ### [Download](https://steamcommunity.com/sharedfiles/filedetails/?id=2632579553)
 
-### [Load Order](https://github.com/Biblioklept/hyperessentials/releases/tag/HEKS.1.0.0)
+### [Load Order](https://github.com/Biblioklept/hyperessentials/releases/tag/HEKS.1.0.0) (EXPANSION not included)
 
 The absolute essentials to run Kenshi bug-free. 
 
