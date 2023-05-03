@@ -3,7 +3,7 @@
 The absolute essentials to run New Vegas (and TTW) and any mods that may have the usual requirements. Comes with quickstarts.
 
 <details>
-<summary>Additional work you may want to do:/summary>
+<summary>Additional work you may want to do:</summary>
 <br>
 
 - **Run the installers.** Ultimate Edition ESM Fixes and the TTW installers both require administrator permissions, so you'll need to open the mod folder and go to build to run either installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
