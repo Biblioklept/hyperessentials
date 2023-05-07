@@ -25,8 +25,8 @@ The absolute essentials to run New Vegas (and TTW) and any mods that may have th
 <summary>Troubleshooting:</summary>
 <br>
 
-Problem: Installers won't run when I run them from MO2.
-- Run them by going to the build folder using Windows Explorer. They require administrator permissions.
+~~Problem: Installers won't run when I run them from MO2.~~
+~~- Run them by going to the build folder using Windows Explorer. They require administrator permissions.~~
 
 </details>
 
