@@ -34,6 +34,26 @@ The absolute essentials to run New Vegas (and TTW) and any mods that may have th
 <summary>Changelog:</summary>
 <br>
 
+__Update 1.1.0:__
+
+ADDED:
+- High Resolution Water Fog - Water Aliasing Fix
+- High Resolution Screens
+- High Resolution Bloom NVSE
+- Pip-Boy Light Flicker Fix - NVSE
+- Pip-Boy Shading Fix NVSE
+- MoonlightNVSE
+
+UPDATED:
+- Stewie Tweaks Essentials INI
+- Modlist Thumbnail
+
+REMOVED:
+- Installers in dropdown for executables, caused too much confusion.
+
+OTHER NOTES:
+- Reordered the modlist in the utilities section, further reordering will be done if needed.
+
 __Update 1.0.2:__
 
 ADDED:
