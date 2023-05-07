@@ -19,11 +19,9 @@ __Working on:__
 
 __Planning to support:__
 
-- [The Elder Scrolls II: Daggerfall](./he-tes2)
+- [The Elder Scrolls II: Daggerfall (Unity)](./he-tes2)
 - [The Elder Scrolls V: Skyrim (LE)](./he-tes5le)
 - [S.T.A.L.K.E.R.: Shadow of Chernobyl](./he-shoc)
 - [S.T.A.L.K.E.R.: Clear Sky](./he-cs)
 - [S.T.A.L.K.E.R.: Call of Pripyat](./he-cop)
-- [S.T.A.L.K.E.R.: Call of Chernobyl](./he-coc)
-- [S.T.A.L.K.E.R.: Anomaly](./he-anomaly)
 - [Rimworld](./he-rw)
