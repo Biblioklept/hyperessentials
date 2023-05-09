@@ -8,3 +8,5 @@ How to install mesh fixes into HEFNV (if you don't know how to, somehow.)
 - Install all downloaded mods to the `Bug Fixes` section.
 - If you installed the `MIM-MERGE` file, double click on the `Weapon Mesh Improvement Mod`, go to `Optional ESPs`, and move it from the `Available ESPs` section, to the `Optional ESPs` section. Do the same for the `New Vegas Mesh Improvement Mod` if installed.
 - Sort your modlist, manually is recommended to counter LOOT's errors, however if you feel like using LOOT, I can't stop you.
+
+**NOTE:** You do not need to have Vanilla Iron Sights - Redux installed if you have this installed, however, It doesn't hurt to keep it enabled.
