@@ -35,6 +35,22 @@ The absolute essentials to run New Vegas (and TTW) and any mods that may have th
 <summary>Changelog:</summary>
 <br>
 
+__Update 1.2.0:__
+
+ADDED:
+- New Vegas Mesh Improvement Mod - NVMIM
+- Elijah Voice Audio Files Fix
+- ExRB - Extended Roombounds
+- Strip Lights Region Fix
+- Crafting Consistency Fix
+
+UPDATED:
+- NVTF - New Vegas Tick Fix
+- ShowOff xNVSE Plugin
+
+REMOVED:
+- TTW Support It can still be added if you disable the "Bug Fixes" section and put the TTW files at the top of the "Game Files section". It is recommended you follow [this guide](https://thebestoftimes.moddinglinked.com/) afterwords.
+
 __Update 1.1.0:__
 
 ADDED:
