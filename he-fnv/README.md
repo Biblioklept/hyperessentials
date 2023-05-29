@@ -6,8 +6,8 @@ The absolute essentials to run New Vegas (and TTW) and any mods that may have th
 <summary>Additional work you may want to do:</summary>
 <br>
 
-- **Run the installers.** Ultimate Edition ESM Fixes and the TTW installers both require administrator permissions, so you'll need to open the mod folder and go to build to run either installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
-- **Fix your meshes.** Mesh fixes are not included by default, as they're aren't a hard requirement to get your game running, however, many do still like using them. So a guide is provided [here](./MIM-GUIDE).
+- **Run the installers.** The Ultimate Edition ESM Fixes installer requires administrator permissions, so you'll need to open the mod folder and go to build to run the installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
+- **Fix your weapon meshes.** Weapon mesh fixes are not included by default, as they're aren't a hard requirement to get your game running bug-free, however, many do still like using them. So a guide is provided [here](./MIM-GUIDE).
 
 </details>
 
