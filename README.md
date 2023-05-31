@@ -8,6 +8,8 @@ I try to automate these as much as possible, however, games like [Daggerfall (Un
 
 Games that provide functional Steam Workshop collection support will likely use the Steam Workshop as an alternative to having an external Mod Manager. (For example, [Kenshi](./he-ks).)
 
+Some mods don't have a preferable way to manage mods, like the S.T.A.L.K.E.R. trilogy (do not recommend JSGME, it's not good enough for me personally, however you are free to use it.), in which case I will simply find some other way to install mods automatically, like a batch script, which is provided for Shadow of Chernobyl. You are free to look at the source if you want, it's as simple as editing the file.
+
 __Supports:__
 
 - [Fallout 3](./he-fo3)
