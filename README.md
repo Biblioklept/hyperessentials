@@ -6,6 +6,8 @@ What you need to run the game and any mods that may have the usual requirements.
 
 I try to automate these as much as possible, however, games like [Daggerfall (Unity)](./he-tes2) will require a manual guide, as Wabbajack does not support it and I have yet to find an installer that does what I need it to do. If Wabbajack provides Daggerfall Unity support, I will provide an alternative to the manual guide.
 
+Games that provide functional Steam Workshop collection support will likely use the Steam Workshop as an alternative to having an external Mod Manager. (For example, [Kenshi](./he-ks).)
+
 __Supports:__
 
 - [Fallout 3](./he-fo3)
