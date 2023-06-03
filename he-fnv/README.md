@@ -2,7 +2,7 @@
 
 ### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HEFNV.1.2.0)
 
-The absolute essentials to run New Vegas (and TTW) and any mods that may have the usual requirements. Comes with quickstarts.
+The absolute essentials to run New Vegas and any mods that may have the usual requirements. Comes with quickstarts.
 
 <details>
 <summary>Additional work you may want to do:</summary>
@@ -17,7 +17,8 @@ The absolute essentials to run New Vegas (and TTW) and any mods that may have th
 <summary>Additional resources:</summary>
 <br>
 
-- [Viva New Vegas](https://vivanewvegas.moddinglinked.com) - you can skip the through everything before the bug fixes section, as it's all covered in this list.
+- [Viva New Vegas](https://vivanewvegas.moddinglinked.com) - you can skip everything through the bug fixes section, as it's all covered in this list.
+- [TTW Install Guide](./TTW-Guide).
 - [Wasteland Survival Guide](https://wastelandsurvivalguide.com) - essentially the same as above, except for TTW.
 - [Wall_SoGB's Performance and Stability Guide](https://performance.moddinglinked.com) - Stewie Tweaks and NVTF changes are included, however the rest couldn't be provided, as they're system tweaks and highly dependent on your system.
 - [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide) - a very good resource for overhauling New Vegas and TTW visually.
