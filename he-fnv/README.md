@@ -18,7 +18,7 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <br>
 
 - [Viva New Vegas](https://vivanewvegas.moddinglinked.com) - you can skip everything through the bug fixes section, as it's all covered in this list.
-- [TTW Install Guide](./TTW-Guide).
+- [TTW Install Guide](./TTW-Guide) - this'll help you install TTW for now, I don't know if I'll make a TTW list so this'll do for now.
 - [Wasteland Survival Guide](https://wastelandsurvivalguide.com) - essentially the same as above, except for TTW.
 - [Wall_SoGB's Performance and Stability Guide](https://performance.moddinglinked.com) - Stewie Tweaks and NVTF changes are included, however the rest couldn't be provided, as they're system tweaks and highly dependent on your system.
 - [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide) - a very good resource for overhauling New Vegas and TTW visually.
