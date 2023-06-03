@@ -1,4 +1,4 @@
-![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hefnv.png)
+![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hettw.png)
 
 How to install TTW into HEFNV.
 
