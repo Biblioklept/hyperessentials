@@ -9,7 +9,6 @@ How to install TTW into HEFNV.
 - Unselect `Yukichigai Unofficial Patch - YUP`.
 - Unselect `Unofficial Patch NVSE Plus`.
 - Unselect `New Vegas Mesh Improvement Mod - NVMIM`.
-- Unselect `ExRB - Extended Roombounds`.
 - Unselect `New Vegas Quick Start`.
 - OPTIONAL: Install [Tale of Two Wastelands Quick Start](https://www.nexusmods.com/newvegas/mods/65937) into your Quick Start seperator. Add a `[NoDelete]` before this mod so when an update comes out you don't lose your files.
 - It is recommended to delete your `ModOrganizer.ini` to make sure you don't use LOOT and have the proper TTW load order.
