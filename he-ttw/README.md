@@ -13,6 +13,8 @@ The absolute essentials to run Tale of Two Wastelands and any mods that may have
 3. Make sure that the file paths for both your `Fallout 3` and `Fallout: New Vegas` installations are correct.
 4. Set the Tale of Two Wastelands install path to the TTW 3.3.2
 
+</details>
+
 <details>
 <summary>Additional resources:</summary>
 <br>
