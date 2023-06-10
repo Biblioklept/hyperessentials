@@ -7,6 +7,8 @@ The absolute essentials to run Tale of Two Wastelands and any mods that may have
 <details>
 <summary>Installing the modlist (IMPORTANT):</summary>
 <br>
+  
+  ### These steps are bare minimum to make your TTW installation actually run.
 
 1. Download the [TTW installer](https://taleoftwowastelands.com/dl).
 2. Run the installer in administrator mode.
