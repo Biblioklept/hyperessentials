@@ -2,7 +2,7 @@
 
 ### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HEFNV.1.2.0)
 
-The absolute essentials to run New Vegas and any mods that may have the usual requirements. Comes with quickstarts.
+The absolute essentials to run New Vegas and any mods that may have the usual requirements. Comes with quickstart.
 
 <details>
 <summary>Additional work you may want to do:</summary>
