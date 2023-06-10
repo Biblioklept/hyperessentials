@@ -5,7 +5,7 @@
 The absolute essentials to run Tale of Two Wastelands and any mods that may have the usual requirements. Comes with quickstarts.
 
 <details>
-<summary> ### Installing the modlist (IMPORTANT): </summary>
+<summary>Installing the modlist (IMPORTANT):</summary>
 <br>
 
 1. Download the [TTW installer](https://taleoftwowastelands.com/dl).
