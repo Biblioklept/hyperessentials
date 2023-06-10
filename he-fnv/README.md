@@ -18,8 +18,6 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <br>
 
 - [Viva New Vegas](https://vivanewvegas.moddinglinked.com) - you can skip everything through the bug fixes section, as it's all covered in this list.
-- [TTW Install Guide](./TTW-Guide) - this'll help you install TTW for now, I don't know if I'll make a TTW list so this'll do for now.
-- [Wasteland Survival Guide](https://wastelandsurvivalguide.com) - essentially the same as above, except for TTW.
 - [Wall_SoGB's Performance and Stability Guide](https://performance.moddinglinked.com) - Stewie Tweaks and NVTF changes are included, however the rest couldn't be provided, as they're system tweaks and highly dependent on your system.
 - [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide) - a very good resource for overhauling New Vegas and TTW visually.
 
@@ -52,7 +50,7 @@ UPDATED:
 - ShowOff xNVSE Plugin
 
 REMOVED:
-- TTW Support It can still be added if you disable the "Bug Fixes" section and put the TTW files at the top of the "Game Files section". It is recommended you follow [this guide](https://thebestoftimes.moddinglinked.com/) afterwords.
+- TTW Support: It has been moved to its [own modlist](https://github.com/Biblioklept/hyperessentials/tree/main/he-ttw).
 
 __Update 1.1.0:__
 
