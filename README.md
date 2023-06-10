@@ -14,6 +14,7 @@ __Supports:__
 
 - [Fallout 3](./he-fo3)
 - [Fallout: New Vegas](./he-fnv)
+- [Fallout: Tale of Two Wastelands](./he-ttw)
 - [Fallout 4](./he-fo4)
 - [The Elder Scrolls III: Morrowind](./he-tes3)
 - [The Elder Scrolls IV: Oblivion](./he-tes4)
