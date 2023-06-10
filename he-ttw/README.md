@@ -5,6 +5,15 @@
 The absolute essentials to run Tale of Two Wastelands and any mods that may have the usual requirements. Comes with quickstarts.
 
 <details>
+<summary> ### Installing the modlist (IMPORTANT): </summary>
+<br>
+
+1. Download the [TTW installer](https://taleoftwowastelands.com/dl).
+2. Run the installer in administrator mode.
+3. Make sure that the file paths for both your `Fallout 3` and `Fallout: New Vegas` installations are correct.
+4. Set the Tale of Two Wastelands install path to the TTW 3.3.2
+
+<details>
 <summary>Additional resources:</summary>
 <br>
 
