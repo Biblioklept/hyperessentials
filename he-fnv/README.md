@@ -1,6 +1,6 @@
 ![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hefnv.png)
 
-### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HEFNV.1.2.0)
+### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HEFNV.1.2.1)
 
 The absolute essentials to run New Vegas and any mods that may have the usual requirements. Comes with quickstart.
 
