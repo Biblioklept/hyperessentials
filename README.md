@@ -4,11 +4,11 @@
 
 What you need to run the game and any mods that may have the usual requirements. Intended to be used as a base or as the absolute necessities to get the game running with some extras (usually quickstarts and additional script extender resources). 
 
-I try to automate these as much as possible, however, games like [Daggerfall (Unity)](./he-tes2) will require a manual guide, as Wabbajack does not support it and I have yet to find an installer that does what I need it to do. If Wabbajack provides Daggerfall Unity support, I will provide an alternative to the manual guide.
-
 Games that provide functional Steam Workshop collection support will likely use the Steam Workshop as an alternative to having an external Mod Manager. (For example, [Kenshi](./he-ks).)
 
 Some games don't have a preferable way to manage mods, like the S.T.A.L.K.E.R. trilogy (do not recommend JSGME, it's not good enough for me personally, however you are free to use it.), in which case I will simply find some other way to install mods automatically, like a batch script, which is provided for [Shadow of Chernobyl](./he-shoc). You are free to look at the source if you want, it's as simple as editing the file.
+
+I try to automate these as much as possible, however, games like [Daggerfall (Unity)](./he-tes2) will require a manual guide, as Wabbajack does not support it and I have yet to find an installer that does what I need it to do. If Wabbajack provides Daggerfall Unity support, I will provide an alternative to the manual guide.
 
 __Supports:__
 
