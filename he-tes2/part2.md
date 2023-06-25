@@ -10,4 +10,4 @@
 > Makes it possible to replace enemies' sprites with animated 3D models.
 
 [<< Start](./part1.md) | 
-[Bug Fixes >>](./part3.md)
+[Bug Fix Mods >>](./part3.md)
