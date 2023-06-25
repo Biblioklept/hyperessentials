@@ -21,9 +21,9 @@
 - [Graphic Fixer](https://www.nexusmods.com/daggerfallunity/mods/280)
 > Improves textures' and shadows' quality.
 - [Reasonable Blood](https://www.nexusmods.com/daggerfallunity/mods/103)
-> Fixes blood textures for certain enemies and reduces blood. **After installing, go to the mod folder and rename "Reasonable Blood" to "Mods".**
+> Fixes blood textures for certain enemies and reduces blood. **Put the manually downloaded file into your MO2 downloads folder, then query info, then install. After installing, go to the mod folder and rename "Reasonable Blood" to "Mods".**
 - [Corrected Bow Textures](https://www.nexusmods.com/daggerfallunity/mods/355)
-> Fixes bow textures in first-person. **When installing, make a new folder named "Mods", and put the .dfmod file into that.**
+> Fixes bow textures in first-person. **Put the manually downloaded file into your MO2 downloads folder, then query info, then install. When installing, make a new folder named "Mods", and put the .dfmod file into that.**
 - [Background Question And History Fixes](https://www.nexusmods.com/daggerfallunity/mods/436)
 > Corrects mistakes and omissions in the Background Questions during Character Creation and in Character Histories.
 - [Start Saver](https://www.nexusmods.com/daggerfallunity/mods/71)
