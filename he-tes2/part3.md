@@ -1,8 +1,8 @@
 ![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hetes2.png)
 
-### Bug Fix Mods - Part 3
-
 > For the following mods: press the `Vortex` button.
+
+### Bug Fix Mods - Part 3
 
 - [Fixed Dungeon Exteriors](https://www.nexusmods.com/daggerfallunity/mods/225)
 > Changes the exterior of 1055 dungeons to fit the dungeon type and name. Removes the "cave mound" entrance for castles, citadels, prisons, crypts, etc.
