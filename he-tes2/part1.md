@@ -1,3 +1,5 @@
+![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hetes2.png)
+
 ### Start - Part 1
 
 To get the best start with this modlist, it's recommended that you: A. Get a fresh install of vanilla Daggerfall; B. Get a fresh install of Daggerfall UNITY.
@@ -24,5 +26,5 @@ Now, to install Daggerfall **UNITY**:
 - Configure the game as you wish in the main and advanced options menu.
 > Recommended settings to enable: Smaller dungeons, Bows - Draw and release, Toggle Sneak.
 
-[<< Back to README](./README.md)
+[<< Back to README](./README.md) | 
 [Frameworks >>](./part2.md)
