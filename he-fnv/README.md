@@ -14,6 +14,14 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 </details>
 
 <details>
+<summary>Some notes:</summary>
+<br>
+
+- I would recommend using a different name beyond HE-FNV/HEFNV. This will be your modlist in the end after all.
+- The `User - INIs` file that is provided is so that you can easily reinstall and revert your INI files. It's also to prevent changes to the base INI files. IF you do not plan to change the files, you are free to disable it.
+
+</details>
+<details>
 <summary>Additional resources:</summary>
 <br>
 
@@ -35,6 +43,21 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <details>
 <summary>Changelog:</summary>
 <br>
+
+__Update 1.2.2__
+
+ADDED:
+- User - INIs
+
+OTHER NOTES
+- List is now installable.
+
+__Update 1.2.1:__
+
+ADDED:
+- yUI - User Ynterface
+- Matched Cursor - Fallout New Vegas
+- yUI - User Ynterface - INI
 
 __Update 1.2.0:__
 
