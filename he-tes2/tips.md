@@ -9,5 +9,5 @@
 - Always check for patches if you install a mod that will likely need them. These are usually mods that do more than just one small edit.
 - Quests will eventually break in Daggerfall, with **very old** procedural generation, that's bound to happen. It's not the end of the world.
 
-[<< Bug Fix Mods](./part3.md) | 
+[<< Optional Mods](./optionals.md) | 
 [-- README --](./README.md)

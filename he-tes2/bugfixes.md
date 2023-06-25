@@ -36,5 +36,5 @@
 - [Useful Console Commands](https://www.nexusmods.com/daggerfallunity/mods/312)
 > Adds various useful console commands.
 
-[<< Framework Mods](./part2.md) | 
-[Optional Mods >>](./part4.md)
+[<< Framework Mods](./frameworks.md) | 
+[Optional Mods >>](./optionals.md)

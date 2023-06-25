@@ -9,5 +9,5 @@
 - [Animator Framework](https://www.nexusmods.com/daggerfallunity/mods/267)
 > Makes it possible to replace enemies' sprites with animated 3D models.
 
-[<< Start](./part1.md) | 
-[Bug Fix Mods >>](./part3.md)
+[<< Setup](./setup.md) | 
+[Bug Fix Mods >>](./bugfixes.md)

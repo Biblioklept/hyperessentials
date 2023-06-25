@@ -51,4 +51,4 @@ Optional steps:
 - Select the new profile.
 
 [<< README](./README.md) | 
-[Frameworks >>](./part2.md)
+[Framework Mods >>](./frameworks.md)
