@@ -22,4 +22,5 @@
 - [World Tooltips](https://www.nexusmods.com/daggerfallunity/mods/158)
 > First-person tooltips that display information (via hovering over NPCs, buildings, doors, items and other interactable objects). **Put the manually downloaded file into your MO2 downloads folder, then query info, then install.**
 
-[<< Bug Fix Mods](./part3.md)
+[<< Bug Fix Mods](./part3.md) | 
+[Tips >>](./part5.md)
