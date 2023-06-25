@@ -8,5 +8,7 @@
 > Changes the graphics of weapons depending on their type. **Put the manually downloaded file into your MO2 downloads folder, then query info, then install.**
 - [Better Default Classes](https://www.nexusmods.com/daggerfallunity/mods/215)
 > Improves the default classes in both quality and variety, for both new players and veterans.
+- [Basic Magic Regen](https://www.nexusmods.com/daggerfallunity/mods/101)
+> Adds a simple Passive Mana Regeneration system that effects the player.
 
 [<< Bug Fix Mods](./part3.md)
