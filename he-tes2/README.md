@@ -2,5 +2,5 @@
 
 The absolute essentials to run Daggerfall: Unity and any mods that may have the usual requirements.
 
-[Setup >>](./setup.md)
+[Setup >>](./setup.md) | 
 [-- Tips --](./tips.md)
