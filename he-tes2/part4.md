@@ -5,6 +5,6 @@
 > For the following mods: press the `Vortex` button.
 
 - [Diverse Weapons](https://www.nexusmods.com/daggerfallunity/mods/242)
-> Changes the graphics of weapons depending on their type.
+> Changes the graphics of weapons depending on their type. **Put the manually downloaded file into your MO2 downloads folder, then query info, then install.**
 
 [<< Bug Fix Mods](./part3.md)
