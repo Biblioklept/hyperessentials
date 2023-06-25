@@ -16,6 +16,7 @@ __Supports:__
 - [Fallout: New Vegas](./he-fnv)
 - [Fallout: Tale of Two Wastelands](./he-ttw)
 - [Fallout 4](./he-fo4)
+- [The Elder Scrolls II: Daggerfall (Unity)](./he-tes2)
 - [The Elder Scrolls III: Morrowind](./he-tes3)
 - [The Elder Scrolls IV: Oblivion](./he-tes4)
 - [S.T.A.L.K.E.R.: Shadow of Chernobyl](./he-shoc)
@@ -27,7 +28,6 @@ __Working on:__
 
 __Planning to support:__
 
-- [The Elder Scrolls II: Daggerfall (Unity)](./he-tes2)
 - [The Elder Scrolls V: Skyrim (LE)](./he-tes5le)
 - [S.T.A.L.K.E.R.: Clear Sky](./he-cs)
 - [S.T.A.L.K.E.R.: Call of Pripyat](./he-cop)
