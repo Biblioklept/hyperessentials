@@ -24,5 +24,5 @@ Now, to install Daggerfall **UNITY**:
 - Configure the game as you wish in the main and advanced options menu.
 > Recommended settings to enable: Smaller dungeons, Bows - Draw and release, Toggle Sneak.
 
-[<< Back to README](./README)
-[Frameworks >>](./frameworks)
+[<< Back to README](./README.md)
+[Frameworks >>](./part2.md)
