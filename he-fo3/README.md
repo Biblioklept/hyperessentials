@@ -4,6 +4,13 @@
 
 The absolute essentials to run Fallout 3 and any mods that may have the usual requirements. Comes with quickstart and iron sights.
 
+<details>
+<summary>Additional work you may want to do:</summary>
+<br>
+
+- **Run the installers.** The Ultimate Edition ESM Fixes installer requires administrator permissions, so you'll need to open the mod folder and go to build to run the installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
+
+</details>
 
 <details>
 <summary>Troubleshooting:</summary>
