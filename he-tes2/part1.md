@@ -1,6 +1,6 @@
 ![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hetes2.png)
 
-## Start - Part 1
+## Setup - Part 1
 
 To get the best start with this modlist, it's recommended that you: A. Get a fresh install of vanilla Daggerfall; B. Get a fresh install of Daggerfall UNITY.
 
