@@ -44,7 +44,7 @@ In the Mod Organizer 2 Installation:
 Optional steps:
 - Go to the Settings menu.
 - Change the theme to whatever you want.
-> I recommend `vs15 Dark-Red` as it fits with Daggerfall's colours.
+> I recommend `1809 Dark Mode`.
 - Make a new profile.
 - Name it whatever you want. 
 > Example: HETES2.
