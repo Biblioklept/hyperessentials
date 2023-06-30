@@ -10,6 +10,8 @@ Some games don't have a preferable way to manage mods, like the S.T.A.L.K.E.R. t
 
 I try to automate these as much as possible, however, games like [Daggerfall (Unity)](./he-tes2) will require a manual guide, as Wabbajack does not support it and I have yet to find an installer that does what I need it to do. If Wabbajack provides Daggerfall Unity support, I will provide an alternative to the manual guide.
 
+Updates are more frequent the more I play the game and if they are needed. For instance I will update Fallout: New Vegas and Fallout: Tale of Two Wastelands more than I would The Elder Scrolls IV: Oblivion, due to both cases of how much I play the game and how little mods get updated that are required to run the game.
+
 __Supports:__
 
 - [Fallout 3](./he-fo3)
