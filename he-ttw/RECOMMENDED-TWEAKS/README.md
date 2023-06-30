@@ -7,7 +7,7 @@ It's recommended that you rename your `Quick Start` section to `Tweaks`. These t
 ### TTW-Focused Overhauls
 
 - [TTW - Anchorage Skip](https://www.nexusmods.com/newvegas/mods/77871)
-> Allows you to skip that the Operation: Anchorage DLC with a high enough science level. Look through the config file to tweak it as you like.
+> Allows you to skip the Operation: Anchorage DLC with a high enough science level. Look through the config file to tweak it as you like.
 - [TTW - Bypass Tranquility Lane](https://www.nexusmods.com/newvegas/mods/81182)
 > Allows you to skip the Tranquility Lane quest with a high enough science level.
 - [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
