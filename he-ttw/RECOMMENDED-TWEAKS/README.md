@@ -26,7 +26,7 @@ It's recommended that you rename your `Quick Start` section to `Tweaks`. These t
 - [Wild Wasteland Forever](https://www.nexusmods.com/newvegas/mods/71609)
 > Has some fixes for Wild Wasteland, allows you to get YCS-186 and the Alien Blaster, along other tweaks.
 - [Four Eyes Get Eyeglasses](https://www.nexusmods.com/newvegas/mods/69565)
-> Players choosing the Four Eyes perk will get eyeglasses at the beginning of the game.
+> Players choosing the Four Eyes perk will get eyeglasses at the beginning of the game. Get the TTW version.
 - [Auto Activate Invisible Doors](https://www.nexusmods.com/newvegas/mods/80650)
 > Automatically activates invisible doors when near them.
 
