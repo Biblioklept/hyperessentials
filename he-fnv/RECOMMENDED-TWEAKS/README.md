@@ -24,4 +24,4 @@ It's recommended that you rename your `Quick Start` section to `Tweaks`. These t
 - [Night Sky Tweaks](https://www.nexusmods.com/newvegas/mods/73529)
 > Removes that "glow" from the horizon during night-time.
 - [Clarity](https://www.nexusmods.com/newvegas/mods/62481) + [Clarity - Colors Muted](https://www.nexusmods.com/newvegas/mods/80121)
-> These mods either remove or alter the overdone orange/yellow tint. Take a pick.
+> These mods either remove the overdone orange/yellow tint.
