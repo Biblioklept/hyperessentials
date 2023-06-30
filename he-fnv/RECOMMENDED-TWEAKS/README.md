@@ -5,7 +5,7 @@ It's recommended that you rename your `Quick Start` section to `Tweaks`. These t
 ### Gameplay
 
 - [No More DLC Messages](https://www.nexusmods.com/newvegas/mods/75686)
-> Disables DLC messages at start, as well as the Courier's Stash DLC messages.
+> Disables DLC messages at start, as well as the Courier's Stash DLC messages. I recommend you look at the config file if you want to disable certain pre-order packs.
 - [Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - (recommended if you like Hardcore)
 > Enables Hardcore mode and disables the selection message.
 - [Wild Wasteland Forever](https://www.nexusmods.com/newvegas/mods/71609)
