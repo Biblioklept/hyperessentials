@@ -1,6 +1,6 @@
 ![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hettw.png)
 
-### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HETTW.1.1.0)
+### [Latest Version](https://github.com/Biblioklept/hyperessentials/releases/tag/HETTW1.1.0)
 
 The absolute essentials to run Tale of Two Wastelands and any mods that may have the usual requirements. Comes with quickstart.
 
