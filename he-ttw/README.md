@@ -25,6 +25,16 @@ The absolute essentials to run Tale of Two Wastelands and any mods that may have
 
 </details>
 
+
+<details>
+<summary>Some notes:</summary>
+<br>
+
+- I would recommend using a different name beyond HE-FNV/HEFNV. This will be your modlist in the end after all.
+- The `User - INIs` file that is provided is so that you can easily reinstall and revert your INI files. It's also to prevent changes to the base INI files. IF you do not plan to change the files, you are free to disable it.
+
+</details>
+
 <details>
 <summary>Additional resources:</summary>
 <br>
