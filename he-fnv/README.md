@@ -10,6 +10,7 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 
 - **Run the installers.** The Ultimate Edition ESM Fixes installer requires administrator permissions, so you'll need to open the mod folder and go to build to run the installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
 - **Fix your weapon meshes.** Weapon mesh fixes are not included by default, as they're aren't a hard requirement to get your game running bug-free, however, many do still like using them. So a guide is provided [here](./MIM-GUIDE).
+- **Tweak the game a little more.** Some things of the vanilla game still bothered me, but aren't strictly bug fixes, this is where the [recommended tweaks](./RECOMMENDED-TWEAKS) come in. Ideally removes some annoyances that I found in the base game.
 
 </details>
 
