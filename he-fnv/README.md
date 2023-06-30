@@ -22,6 +22,7 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 - The `User - INIs` file that is provided is so that you can easily reinstall and revert your INI files. It's also to prevent changes to the base INI files. IF you do not plan to change the files, you are free to disable it.
 
 </details>
+
 <details>
 <summary>Additional resources:</summary>
 <br>
