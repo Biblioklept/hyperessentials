@@ -2,6 +2,8 @@
 
 It's recommended that you rename your `Quick Start` section to `Tweaks`. These tweaks aim to improve what you're given in the base game with minimal ESP files, they also aim to have as minimal gameplay changes as possible.
 
+**Start off by looking through Stewie Tweaks, then use these as you see fit.**
+
 ### Gameplay
 
 - [No More DLC Messages](https://www.nexusmods.com/newvegas/mods/75686)
