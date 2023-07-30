@@ -46,6 +46,43 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <summary>Changelog:</summary>
 <br>
 
+__Update 2.0.0__
+
+ADDED:
+- Fallout New Vegas Unofficial Patch
+- HIPControl - Weapon Idle Position Adjuster - ESPless
+- Weapon Based fNearDistance ESPLess
+- Basic Console Autocomplete
+- Improved Console (NVSE)
+- B42 Optics - ESPless
+- B42 Inject - Animated Item Use - ESPless
+- Depth of Field Fix - NVSE
+- Fallout Alpha Rendering Tweaks - NVSE
+- Muzzle Flash Light Fix - NVSE
+- PipBoyOn Node Fixes (New Vegas Version)
+- Consistent Spread - Firearms Accuracy and Wobble Fix
+- Improved LOD Noise Texture
+
+UPDATED:
+- JIP LN NVSE Plugin
+- JohnnyGuitar NVSE
+- NVTF - New Vegas Tick Fix
+- Exterior Emittance Fix - NVSE
+- ISControl Enabler and Ironsights adjuster (now ESPless)
+- Console Paste Support
+- SUP NVSE
+- NVTF - INI
+- User - INIs
+
+REMOVED:
+- Yukichigai Unofficial Patch - YUP
+- Unofficial Patch NVSE Plus
+- Aqua Performa - Strip Performance Fix
+- Vanilla Iron Sights Realligned - Redux
+
+OTHER NOTES:
+- Separated NVSE mods into different sections.
+
 __Update 1.2.2__
 
 ADDED:
