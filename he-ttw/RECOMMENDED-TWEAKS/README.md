@@ -40,5 +40,3 @@ It's recommended that you rename your `Quick Start` section to `Tweaks`. These t
 > Removes that "glow" from the horizon during night-time.
 - [Clarity TTW](https://taleoftwowastelands.com/viewtopic.php?t=8592) + [Clarity - Colors Muted](https://www.nexusmods.com/newvegas/mods/80121)
 > These mods either remove the overdone orange/yellow + green tint.
-
-### [Recommended Setup Here](https://loadorderlibrary.com/lists/hettwex)
