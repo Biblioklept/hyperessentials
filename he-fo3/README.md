@@ -40,6 +40,7 @@ REMOVED:
 - Semi-Auto Queue
 
 OTHER NOTES:
+- Removed the `- Root` at the end of Root mods. Kind of useless.
 - Added Subjective Bug Fixes and User Interfaces seperators.
 - Added an OPTIONAL tag next to the optional stuff. To make it more apparent.
 
