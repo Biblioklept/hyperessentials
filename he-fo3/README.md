@@ -35,6 +35,9 @@ ADDED:
 UPDATED:
 - Unofficial Fallout 3 ESM Patcher
 
+REMOVED:
+- Semi-Auto Queue
+
 OTHER NOTES:
 - Added Subjective Bug Fixes and User Interfaces seperators.
 - Added an OPTIONAL tag next to the optional stuff. To make it more apparent.
