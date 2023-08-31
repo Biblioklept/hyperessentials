@@ -8,7 +8,7 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <summary>Additional work you may want to do:</summary>
 <br>
 
-- **Run the installers.** The Ultimate Edition ESM Fixes installer requires administrator permissions, so you'll need to open the mod folder and go to build to run the installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
+- **Run the Ultimate Edition ESM Fixes installer.** The Ultimate Edition ESM Fixes installer requires administrator permissions, so you'll need to open the mod folder and go to build to run the installer, as it isnt recommended to run MO2 in administrator unless absolutely necessary.
 - **Fix your weapon meshes.** Weapon mesh fixes are not included by default, as they're aren't a hard requirement to get your game running bug-free, however, many do still like using them. So a guide is provided [here](./MIM-GUIDE).
 - **Tweak the game a little more.** Some things of the vanilla game still bothered me, but aren't strictly bug fixes, this is where the [recommended tweaks](./RECOMMENDED-TWEAKS) come in. Ideally removes some annoyances that I found in the base game.
 
@@ -45,6 +45,53 @@ The absolute essentials to run New Vegas and any mods that may have the usual re
 <details>
 <summary>Changelog:</summary>
 <br>
+
+__Update 2.1.0__
+
+ADDED:
+- B42 Optics - Real Time Reflections Patch
+- Smooth True Iron Sights Camera
+- Manual Reload and Ammo Memory
+- Cookable Grenades
+- Double Jump and Coyote Time
+- Faster Main Menu
+- Jump While Aiming
+- Compass Height Indicator
+- Auto-Save Manager
+- Faster Sleep-Wait
+- WASD Menu Controls
+- Menu Search
+- lStewieAl's Engine Optimizations
+- Yukichigai Unofficial Patch - YUP
+- Unofficial Patch NVSE Plus
+- Aqua Performa - Strip Performance Fix
+- Elijah Missing Distortion Fix
+- Assorted Voice Popping Fixes
+- ExRB - YUP Patch
+- Ammo Script Fixes
+- The Mod Configuration Menu
+- The Mod Configuration Menu - Bug Fix 2
+- Vanilla UI Plus
+
+UPDATED:
+- New Vegas Script Extender (NVSE xNVSE)
+- JIP LN NVSE Plugin
+- SUP NVSE Plugin
+- B42 Optics
+- B42 Inject
+- lStewieAl's Tweaks and Engine Fixes
+- FNV Mod Limit Fix
+- Depth of Field Fix - NVSE
+- Real Time Reflections - NVSE
+- Iron Sights Aligned
+
+REMOVED:
+- Fallout New Vegas Unofficial Patch
+- Elijah Voice Audio Files Fix
+
+OTHER NOTES:
+- Added User Interface seperator
+- Added an OPTIONAL tag next to the optional stuff. To make it more apparent.
 
 __Update 2.0.0__
 
