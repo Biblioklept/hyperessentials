@@ -21,6 +21,7 @@ __Supports:__
 - [The Elder Scrolls IV: Oblivion](./he-tes4)
 - [S.T.A.L.K.E.R.: Shadow of Chernobyl](./he-shoc)
 - [Kenshi](./he-ks)
+- [Mod Organizer 2](./he-mo2)
 
 __Working on:__
 
