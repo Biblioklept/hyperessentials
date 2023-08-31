@@ -25,6 +25,7 @@ None as of right now!
 <br>
 
 __Update 1.2.0:__
+
 ADDED:
 - FO3 Mod Limit Fix
 - High Resolution Screens F3
@@ -43,6 +44,7 @@ OTHER NOTES:
 - Added an OPTIONAL tag next to the optional stuff. To make it more apparent.
 
 __Update 1.1.0:__
+
 ADDED:
 - Stewie Tweaks - INI
 - Unofficial Fallout 3 ESM Patcher
