@@ -1,5 +1,7 @@
 ![HyperEssentials Branding](https://raw.githubusercontent.com/Biblioklept/hyperessentials/main/img/hyperessentials-he.png)
 
+# HyperEssentials is on a hiatus until I find my will to actively work on these lists and modding gets stable again.
+
 What you need to run the game and any mods that may have the usual requirements. Intended to be used as a base or as the absolute necessities to get the game running with some extras (usually quickstarts and additional script extender resources). 
 
 Games that provide functional Steam Workshop collection support will likely use the Steam Workshop as an alternative to having an external Mod Manager. (For example, [Kenshi](./he-ks).)
